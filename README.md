@@ -1,0 +1,1 @@
+It is a practice repo following GCI program hosted by Matsuo-Iwasawa lab of University of Tokyo in Japan.It is an online based program that is aim to teach all grades students from high school to university level to give basic understanding about Data Analysis and solve business problem.
